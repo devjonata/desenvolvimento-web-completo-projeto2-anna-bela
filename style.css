@@ -16,6 +16,10 @@ body{
     padding: 10px;
 }
 
+.fotos{
+     border: 10px solid #c3c3ae; 
+}
+
 .centralizar{
     text-align: center;
 }
